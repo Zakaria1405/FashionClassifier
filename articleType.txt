@@ -1,0 +1,32 @@
+'Shirts': 1
+'Jeans': 2
+'Tshirts': 3
+'Socks': 4
+'Tops': 5
+'Sweatshirts': 6
+'Shorts': 7
+'Dresses': 8
+'Night suits': 9
+'Skirts': 10
+'Blazers': 11
+'Capris': 12
+'Tunics': 13
+'Jackets': 14
+'Lounge Pants': 15
+'Tracksuits': 16
+'Swimwear': 17
+'Sweaters': 18
+'Nightdress': 19
+'Leggings': 20
+'Kurtis': 21
+'Jumpsuit': 22
+'Tights': 23
+'Jeggings': 24
+'Rompers': 25
+'Casual Shoes': 26
+'Formal Shoes': 27
+'Sports Shoes': 28
+'Sandals': 29
+'Heels': 30
+'Flip Flops': 31
+'Booties': 3

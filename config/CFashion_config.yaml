@@ -1,0 +1,15 @@
+data_loaders:
+  train:
+    batch_size: 16
+    shuffle: true
+    num_workers: 2
+  test:
+    batch_size: 1
+    shuffle: true
+    num_workers: 2
+  val:
+    batch_size: 1
+    shuffle: true
+    num_workers: 2
+epochs: 2
+Train: 1
